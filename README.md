@@ -1,2 +1,3 @@
 # paint-palettes
-meow
+
+Paint planks, stairs, and slabs with all 16 colors!
